@@ -1,6 +1,4 @@
-# On-_Premise-_Server_Provision_and_Deployment
-
-# YSD_B02_DevOps_Library_Management_System
+# Library_Management_System
 
 Library Management System
 
